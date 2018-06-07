@@ -1,3 +1,4 @@
 node_modules/
 data/*.sqlite
 info.txt
+user.js
